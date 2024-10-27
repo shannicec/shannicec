@@ -4,9 +4,7 @@
   -->
 
 <h1 align="center">Hi 👋🏾, I'm Shanice Cheptoo</h1>
-<!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h4 align="center">Welcome to **Cheptoo’s DevHub**! an Actuarial Science graduate diving into the world of software engineering. With a solid foundation in data analysis and a keen interest in programming, I'm honing my skills in Python and web development. Explore my GitHub to see how I blend my analytical background with creative coding projects!</h4>
+<h4 align="center">Welcome to **Cheptoo’s DevHub**!I am an Actuarial Science graduate diving into the world of software engineering. With a solid foundation in data analysis and a keen interest in programming, I'm honing my skills in Python and web development. Explore my GitHub to see how I blend my analytical background with creative coding projects!</h4>
 
 <br/>
 
@@ -34,15 +32,18 @@
 
 ### Get to know me
 
-💬  **I'm a passionate software engineering student with a background in actuarial science and I’m now diving deep into programming, focusing on Python and web development, and bringing my unique perspective to tech!**
+💬  **As a technology enthusiast, I thrive on transforming complex problems into elegant solutions. My journey has taken me from analyzing data patterns to crafting innovative applications. I’m particularly passionate about creating user-friendly web experiences and leveraging data to drive decision-making. When I’m not coding, you can find me exploring the latest tech trends or collaborating on projects that challenge the status quo. Let’s connect and innovate together!**
 
 👨‍💻 Review my projects at [https://github.com/shannicec](https://github.com/shannicec)
 
+
 ### 💖 Fun Facts & Hobbies 🎀
+
 - **Music Lover** 🎶: Discovering new artists and swapping playlists with friends is my jam.
 - **Photography** 📸: Capturing moments from nature, cityscapes, and all things aesthetic.
 - **Reading** 📚: Big fan of mystery novels 
 - **Exploring** 🌍: I enjoy “hot girl walks” around town and finding new spots to hang out.
+
 
 ### Interested ?
 
