@@ -4,7 +4,7 @@
   -->
 
 <h1 align="center">Hi 👋🏾, I'm Shanice Cheptoo</h1>
-<h4 align="center">Welcome to **Cheptoo’s DevHub**!I am an Actuarial Science graduate diving into the world of software engineering. With a solid foundation in data analysis and a keen interest in programming, I'm honing my skills in Python and web development. Explore my GitHub to see how I blend my analytical background with creative coding projects!</h4>
+<h4 align="center">Welcome to Cheptoo’s DevHub!I am an Actuarial Science graduate diving into the world of software engineering. With a solid foundation in data analysis and a keen interest in programming, I'm honing my skills in Python and web development. Explore my GitHub to see how I blend my analytical background with creative coding projects!</h4>
 
 <br/>
 
@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 </p>
 
@@ -36,6 +36,7 @@
 
 👨‍💻 Review my projects at [https://github.com/shannicec](https://github.com/shannicec)
 
+---
 
 ### 💖 Fun Facts & Hobbies 🎀
 
@@ -44,6 +45,7 @@
 - **Reading** 📚: Big fan of mystery novels.
 - **Exploring** 🌍: I enjoy “hot girl walks” around town and finding new spots to hang out.
 
+---
 
 ### Interested ?
 
@@ -51,6 +53,18 @@
 
 <br />
 
-Thanks for stopping by **Cheptoo’s DevHub**! Here, every project is a part of my journey through code, creativity, and a bit of chaos. Whether you're here for inspiration, collaboration, or just a peek, I hope you enjoy the vibe!
+### My stats ⭐
+
+<div align="center">
+<img alt="shanice's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shannicec&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannicec&layout=compact&&langs_count=8"/>
+</div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shannicec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+Thanks for stopping by Cheptoo’s DevHub! Here, every project is a part of my journey through code, creativity, and a bit of chaos. Whether you're here for inspiration, collaboration, or just a peek, I hope you enjoy the vibe!
 
 <!-- END -->
