@@ -39,9 +39,9 @@
 
 ### 💖 Fun Facts & Hobbies 🎀
 
-- **Music Lover** 🎶: Discovering new artists and swapping playlists with friends is my jam.
+- **Music Lover** 🎶: Discovering new artists and swapping playlists with friends.
 - **Photography** 📸: Capturing moments from nature, cityscapes, and all things aesthetic.
-- **Reading** 📚: Big fan of mystery novels 
+- **Reading** 📚: Big fan of mystery novels.
 - **Exploring** 🌍: I enjoy “hot girl walks” around town and finding new spots to hang out.
 
 
