@@ -28,10 +28,6 @@
 
 ---
 
-### Interested ?
-
-📫 Reach me on **nataliacheptoo@gmail.com**
-
 <br />
 
 ### My stats ⭐
