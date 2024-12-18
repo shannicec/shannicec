@@ -20,7 +20,7 @@
 
 <h1>Overview</h1>
 
-### Get to know me
+### 💫 About Me:
 
 💬  **I thrive on transforming complex problems into elegant solutions. My journey has taken me from analyzing data patterns to crafting innovative applications. I’m particularly passionate about creating user-friendly web experiences and leveraging data to drive decision-making. When I’m not coding, you can find me exploring the latest tech trends or collaborating on projects that challenge the status quo. Let’s connect and innovate together!**
 
