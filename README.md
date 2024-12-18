@@ -40,8 +40,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shannicec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-Thanks for stopping by Cheptoo’s DevHub! Here, every project is a part of my journey through code, creativity, and a bit of chaos. Whether you're here for inspiration, collaboration, or just a peek, I hope you enjoy the vibe!
-
-<!-- END -->
