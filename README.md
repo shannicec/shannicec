@@ -1,14 +1,4 @@
-<!-- 
-  -- SECTION: INTRODUCTION
-  -- 
-  -->
-
-<h1 align="center">Hi 👋🏾, I'm Shanice Cheptoo</h1>
-<h4 align="center">Welcome to Cheptoo’s DevHub!I am an Actuarial Science graduate diving into the world of software engineering. With a solid foundation in data analysis and a keen interest in programming, I'm honing my skills in Python and web development. Explore my GitHub to see how I blend my analytical background with creative coding projects!</h4>
-
-<br/>
-
-  ### My Skill Set :rocket:
+ ### My Skill Set :rocket:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
