@@ -22,18 +22,9 @@
 
 ### Get to know me
 
-💬  **As a technology enthusiast, I thrive on transforming complex problems into elegant solutions. My journey has taken me from analyzing data patterns to crafting innovative applications. I’m particularly passionate about creating user-friendly web experiences and leveraging data to drive decision-making. When I’m not coding, you can find me exploring the latest tech trends or collaborating on projects that challenge the status quo. Let’s connect and innovate together!**
+💬  **I thrive on transforming complex problems into elegant solutions. My journey has taken me from analyzing data patterns to crafting innovative applications. I’m particularly passionate about creating user-friendly web experiences and leveraging data to drive decision-making. When I’m not coding, you can find me exploring the latest tech trends or collaborating on projects that challenge the status quo. Let’s connect and innovate together!**
 
 👨‍💻 Review my projects at [https://github.com/shannicec](https://github.com/shannicec)
-
----
-
-### 💖 Fun Facts & Hobbies 🎀
-
-- **Music Lover** 🎶: Discovering new artists and swapping playlists with friends.
-- **Photography** 📸: Capturing moments from nature, cityscapes, and all things aesthetic.
-- **Reading** 📚: Big fan of mystery novels.
-- **Exploring** 🌍: I enjoy “hot girl walks” around town and finding new spots to hang out.
 
 ---
 
