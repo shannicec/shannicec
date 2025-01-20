@@ -15,7 +15,7 @@
 
 <!-- 
  
-👨‍💻 Review my projects at [https://github.com/shannicec](https://github.com/shannicec)
+👨‍💻 Review my projects at [https://github.com/shannicec](https://github.com/shannicec) 
 
 ---
 
